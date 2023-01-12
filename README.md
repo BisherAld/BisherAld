@@ -3,7 +3,9 @@
 ------------------------------
 
 👋 Hi, I’m @BisherAld
-- 👀 I’m interested in ...
+🎓 Ik ben een student Software Developer  op het Nova college (Hoofdorp) en ik werk aan mijn projecten voorlopig. Ik ben altijd bezig met leren van nieuwe talen en daar ben ik bezig mee.
+
+- 👀 I’m interested in keeping learning
 - 🌱 I’m currently learning HTML, CSS, bootstrap, PHP and MYSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aldbisher@gmail.com
